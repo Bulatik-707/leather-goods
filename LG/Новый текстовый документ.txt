@@ -1,2 +1,0 @@
- php artisan make:model Product -m
-php artisan make:model Сategory -m
